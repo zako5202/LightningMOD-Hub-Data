@@ -10,7 +10,7 @@ namespace Turbo.Plugins.RNN
 
     public class BlueLineEliteMinimap : BasePlugin, IInGameTopPainter
     {
-        public const string Version = "9990.999.999";
+        public const string Version = "9995.919.999";
         
         public float MainScreenThickness { get; set; } = 6f;
         public float MinimapThickness { get; set; } = 2f;
