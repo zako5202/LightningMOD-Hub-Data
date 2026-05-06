@@ -3,7 +3,7 @@
     {
       "id": "BlueLineEliteMinimap",
       "name": "Blue Line Elite Minimap",
-      "version": "9995.999.999",
+      "version": "9995.919.999",
       "description": "Adds blue line indicators for elite enemies on the minimap.",
       "changelog": "Initial release.",
       "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/BlueLineEliteMinimap.cs",
@@ -12,7 +12,7 @@
     {
       "id": "HaloOfKariniPlugin",
       "name": "Halo Of Karini Plugin",
-      "version": "1.0.0",
+      "version": "1.54.0",
       "description": "Displays Halo of Karini buff status.",
       "changelog": "Initial release.",
       "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/HaloOfKariniPlugin.cs",
@@ -21,7 +21,7 @@
     {
       "id": "MonsterCircleEliteColorPlugin",
       "name": "Monster Circle Elite Color",
-      "version": "1.0.0",
+      "version": "1.0.34",
       "description": "Changes elite monster circle colors.",
       "changelog": "Initial release.",
       "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/MonsterCircleEliteColorPlugin.cs",
