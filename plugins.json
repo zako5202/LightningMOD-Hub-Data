@@ -1,6 +1,15 @@
 {
   "plugins": [
     {
+      "id": "Materials",
+      "name": "Materials",
+      "version": "1.0.0",
+      "description": "test No.1.",
+      "changelog": "Initial release.",
+      "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/BlueLineEliteMinimap.cs",
+      "category": "General"
+    },
+    {
       "id": "ArchonMinimal",
       "name": "Archon Minimal",
       "version": "1.0.0",
