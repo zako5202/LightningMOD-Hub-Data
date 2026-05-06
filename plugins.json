@@ -8,7 +8,17 @@
       "changelog": "Initial release.",
       "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/BlueLineEliteMinimap.cs",
       "category": "General"
-    },{
+    },
+    {
+      "id": "DAV_ShrineTaker",
+      "name": "DAV Shrine Taker",
+      "version": "1.0.0",
+      "description": "TEST TEST TEST.",
+      "changelog": "Initial release.",
+      "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/BlueLineEliteMinimap.cs",
+      "category": "General"
+    },
+    {
       "id": "BlueLineEliteMinimap",
       "name": "Blue Line Elite Minimap",
       "version": "9995.919.9999",
