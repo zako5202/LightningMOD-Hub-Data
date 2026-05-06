@@ -3,7 +3,7 @@
     {
       "id": "BlueLineEliteMinimap",
       "name": "Blue Line Elite Minimap",
-      "version": "1.0.543",
+      "version": "432.43.543",
       "description": "Adds blue line indicators for elite enemies on the minimap.",
       "changelog": "Initial release.",
       "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/BlueLineEliteMinimap.cs",
