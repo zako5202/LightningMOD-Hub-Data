@@ -7,6 +7,8 @@ namespace Turbo.Plugins.RNN
 {
     public class Materials : BasePlugin, ICustomizer, IInGameTopPainter
     {
+		public const string Version = "1.0.0";
+		
 		private float x { get; set; }
 		private float y { get; set; }
 		private float Space { get; set; } = 0;
