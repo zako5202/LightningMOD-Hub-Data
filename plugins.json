@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "id": "example-plugin",
+      "name": "Example Plugin",
+      "version": "1.0.0",
+      "description": "This is a test plugin.",
+      "changelog": "Initial release.",
+      "downloadUrl": "https://raw.githubusercontent.com/zako5202/LightningMOD-Hub-Data/main/plugins/example.zip",
+      "category": "General"
+    }
+  ]
+}
